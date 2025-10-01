@@ -1,47 +1,66 @@
-<h2 align="left">Hi 👋! My name is juanjarce and I'm a passionate developer from Colombia<br><br>🔭 I’m currently part of CATAVENTO TECNOLOGÍA SAS<br><br>🌱 I’m currently learning:<br>      📝 Spring Boot<br>      📝 TypeScript<br>      📝 Angular<br>      📝 React<br><br>👨‍💻 I´m a systems engineering student</h2>
+<h1 align="center">Hey 👋, I'm Juan José Arce</h1>
 
-###
+<p align="center">
+  🚀 Software Engineer | 💻 Full-Stack Developer | 🌎 From Colombia
+</p>
 
+---
+
+### 👨‍💻 About Me
+- 💼 Currently working at **CATAVENTO TECNOLOGÍA S.A.S**
+- 🎓 Systems Engineering student with a passion for **clean code, scalability and innovation**
+- 🧠 Experienced in building solutions for **healthcare, commerce, inventory, electronic invoicing and more**
+- ⚡ Always exploring **modern architectures, cloud computing and AI-powered solutions**
+
+---
+
+### 🚀 Tech Stack
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=juanjarce&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  
+  <!-- Core Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="50" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
+  
 </div>
 
-###
+---
 
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"/>
+  <img src="https://streak-stats.demolab.com?user=juanjarce&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjarce&layout=compact&theme=radical" height="150" alt="top langs graph" />
 </div>
 
-###
+---
 
+### 🌐 Let's Connect
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="https://www.outlook.com/juanj.arcea@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <a href="https://www.linkedin.com/in/juanjarce" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:juanj.arcea@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="Outlook" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
+### 🐍 Snake Contribution Graph
 <img src="https://raw.githubusercontent.com/juanjarce/juanjarce/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img height="250" src="https://scontent-mia3-1.xx.fbcdn.net/v/t31.18172-8/10530533_935966596419171_3535482894817528090_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeEjzZ49gZeWXvRTgUkGQLTiH8z8j7KNVREfzPyPso1VETr4jU3yi1CFM0CLyjObPrn_dmlMICMgC9UnSrm3GoOF&_nc_ohc=sDoBy7lnkcgQ7kNvgGDTDFw&_nc_ht=scontent-mia3-1.xx&oh=00_AYACuSh5Cnvsz5sbH_pBO7dGi66BsIl3jh9Jt6r4cYZWTQ&oe=66E433AB"  />
-</div>
-
-###
+---
