@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Tech Stack
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   
   <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
