@@ -24,7 +24,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=juanjarce&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjarce&layout=compact&theme=radical" height="150" alt="top langs graph" />
 </div>
 
